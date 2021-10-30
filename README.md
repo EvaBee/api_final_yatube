@@ -1,2 +1,4 @@
-# api_final
-api final
+<h1>Финальный проект по созданию API</h1> <h2>с использованием Django REST framework</h2>
+
+<h3><i>Описание</h3></i>
+
